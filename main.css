@@ -13,4 +13,12 @@ background-color:cyan;
 li {
     font-weight: 400;
     border-width: 100pt;
+    color:rgb(228, 57, 34);
+}
+h3 {
+    color:seagreen;
+    font-style:initial;
+}
+h2 {
+    color:lawngreen;
 }
