@@ -1,9 +1,12 @@
+
 h1 {font-style: Fantasy;
-color:rgb(228, 20, 20);
+color:rgb(172, 61, 9);
 border-width: 10pt;
-font-size: 10pt}
+font-size: 10pt;
+background-color: rgb(15,100,100);}
 p {font-style: Fantasy;
 color:crimson;
 border-width:10pt;
 font-size:10pt;
+background-color:cyan;
 }
