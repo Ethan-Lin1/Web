@@ -3,23 +3,32 @@ h1 {font-style: Fantasy;
 color:rgb(228, 57, 34);
 border-width: 10pt;
 font-size: 10pt;
-background-color: rgb(160, 236, 236);}
+background-color: rgb(160, 236, 236);
+    padding-top: 10pt;
+    padding-bottom: 10pt;}
 p {font-style: Fantasy;
 color:crimson;
 border-width:10pt;
 font-size:10pt;
 background-color:green;
     padding-top: 10pt;
+    padding-bottom: 10pt;
 }
 li {
     font-weight: 400;
     border-width: 100pt;
     color:rgb(228, 57, 34);
+        padding-top: 10pt;
+    padding-bottom: 10pt;
 }
 h3 {
     color:seagreen;
     font-style:initial;
+        padding-top: 10pt;
+    padding-bottom: 10pt;
 }
 h2 {
     color:lawngreen;
+        padding-top: 10pt;
+    padding-bottom: 10pt;
 }
