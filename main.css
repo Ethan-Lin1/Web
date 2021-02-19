@@ -7,7 +7,7 @@ background-color: rgb(160, 236, 236);
     padding-top: 10pt;
     padding-bottom: 10pt;}
 p {font-style: Fantasy;
-color:crimson;
+color:yellow;
 border-width:10pt;
 font-size:10pt;
 background-color:green;
@@ -26,6 +26,7 @@ h3 {
     font-style:initial;
         padding-top: 10pt;
     padding-bottom: 10pt;
+    background-color: white;
 }
 h2 {
     color:lawngreen;
