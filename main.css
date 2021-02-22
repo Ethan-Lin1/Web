@@ -1,3 +1,8 @@
+/*different form of comments*/
+/*the basic form of this is the type of structure is the type of text followed by brackets which surround the aspects that you wish to attribute to that text body*/
+/*I think you need to have something for body for padding and border-width to work as those seem to need to have like a baseline to build off of.*/
+/* The commands i found were color which changed text color, background-color changed the background-color for the specific text body*/
+/* There are many other types like padding which I thought was c0ol*/
 body {background-color: cyan;}
 h1 {font-style: Fantasy;
 color:rgb(228, 57, 34);
